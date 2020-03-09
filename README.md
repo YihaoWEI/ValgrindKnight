@@ -6,8 +6,10 @@ Kill the demon dragon of memory.
 https://www.ibm.com/developerworks/cn/linux/l-cn-valgrind/index.html
 
 ##### TODO: Callgrind and cachegrind
+Great tech blog to explain the cache memory principles: http://igoro.com/archive/gallery-of-processor-cache-effects/  
 
-bit byte XB conversions
+
+##### bit byte XB conversions
 ```
 1 byte = 8 bits
 1 kilobyte (K / KB) = 2^10 bytes = 1,024 bytes
